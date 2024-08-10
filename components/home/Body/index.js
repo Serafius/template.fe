@@ -1,0 +1,1 @@
+// Same as menu, and use it in home page
